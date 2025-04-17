@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Finding Peace in Chaos",
+    "verse": "Philippians 4:6-7",
+    "verseText": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "insights": "Peace comes not from the absence of trouble, but from the presence of God.",
+    "date": "2024-02-20"
+  },
+  {
+    "id": "2",
+    "title": "Walking in Faith",
+    "verse": "Hebrews 11:1",
+    "verseText": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+    "insights": "Faith is taking the first step even when you don't see the whole staircase.",
+    "date": "2024-02-21"
+  },
+  {
+    "id": "3",
+    "title": "The Power of Gratitude",
+    "verse": "1 Thessalonians 5:18",
+    "verseText": "Give thanks in all circumstances; for this is God's will for you in Christ Jesus.",
+    "insights": "Gratitude turns what we have into enough.",
+    "date": "2024-02-22"
+  },
+  {
+    "id": "4",
+    "title": "Living with Purpose",
+    "verse": "Jeremiah 29:11",
+    "verseText": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you.",
+    "insights": "Your life has purpose. Your story is important. Your dreams count.",
+    "date": "2024-02-23",
+    "locked": true
+  }
+]
