@@ -1,35 +1,314 @@
 [
   {
     "id": "1",
-    "title": "Finding Peace in Chaos",
-    "verse": "Philippians 4:6-7",
-    "verseText": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
-    "insights": "Peace comes not from the absence of trouble, but from the presence of God.",
-    "date": "2024-02-20"
+    "title": "Victory Over Fear",
+    "verse": "Isaiah 41:10",
+    "verseText": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "insights": "Fear loses its grip when we anchor our hearts in God\u2019s promises. He walks with us through every storm, bringing peace to our souls.",
+    "date": "2025-04-23"
   },
   {
     "id": "2",
-    "title": "Walking in Faith",
-    "verse": "Hebrews 11:1",
-    "verseText": "Now faith is confidence in what we hope for and assurance about what we do not see.",
-    "insights": "Faith is taking the first step even when you don't see the whole staircase.",
-    "date": "2024-02-21"
+    "title": "Renewed by the Word",
+    "verse": "Psalm 119:105",
+    "verseText": "Your word is a lamp for my feet, a light on my path.",
+    "insights": "God\u2019s Word revives weary hearts. When we feel lost, Scripture brings clarity, comfort, and direction.",
+    "date": "2025-04-24"
   },
   {
     "id": "3",
-    "title": "The Power of Gratitude",
-    "verse": "1 Thessalonians 5:18",
-    "verseText": "Give thanks in all circumstances; for this is God's will for you in Christ Jesus.",
-    "insights": "Gratitude turns what we have into enough.",
-    "date": "2024-02-22"
+    "title": "Joy in Trials",
+    "verse": "James 1:2-3",
+    "verseText": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds.",
+    "insights": "Joy isn\u2019t the absence of struggle; it's the presence of Christ. Trials are tools that deepen our faith and mold our character.",
+    "date": "2025-04-25"
   },
   {
     "id": "4",
-    "title": "Living with Purpose",
-    "verse": "Jeremiah 29:11",
-    "verseText": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you.",
-    "insights": "Your life has purpose. Your story is important. Your dreams count.",
-    "date": "2024-02-23",
-    "locked": true
+    "title": "The Shepherd\u2019s Voice",
+    "verse": "John 10:27",
+    "verseText": "My sheep listen to my voice; I know them, and they follow me.",
+    "insights": "Amid the noise of the world, God still speaks. He calls each of us by name\u2014our part is to quiet down and listen.",
+    "date": "2025-04-26"
+  },
+  {
+    "id": "5",
+    "title": "Light in the Darkness",
+    "verse": "John 1:5",
+    "verseText": "The light shines in the darkness, and the darkness has not overcome it.",
+    "insights": "Darkness may surround us, but it never overcomes the light of Christ. In Him, we find courage to shine in every circumstance.",
+    "date": "2025-04-27"
+  },
+  {
+    "id": "6",
+    "title": "The Gift of Forgiveness",
+    "verse": "Ephesians 4:32",
+    "verseText": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+    "insights": "Forgiveness is freedom\u2014for us and for others. When we release offenses, we make room for God\u2019s healing grace to work.",
+    "date": "2025-04-28"
+  },
+  {
+    "id": "7",
+    "title": "Standing on the Rock",
+    "verse": "Matthew 7:24",
+    "verseText": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+    "insights": "When life feels shaky, God\u2019s truth stands firm. Building on His Word means walking in confidence, even when challenges come.",
+    "date": "2025-04-29"
+  },
+  {
+    "id": "8",
+    "title": "Hope in the Waiting",
+    "verse": "Romans 12:12",
+    "verseText": "Be joyful in hope, patient in affliction, faithful in prayer.",
+    "insights": "Waiting isn't wasted when it's filled with faith. God often works behind the scenes, preparing what\u2019s next while growing your trust in Him.",
+    "date": "2025-04-30"
+  },
+  {
+    "id": "9",
+    "title": "Victory Over Fear",
+    "verse": "Isaiah 41:10",
+    "verseText": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "insights": "Fear loses its grip when we anchor our hearts in God\u2019s promises. He walks with us through every storm, bringing peace to our souls.",
+    "date": "2025-05-01"
+  },
+  {
+    "id": "10",
+    "title": "Renewed by the Word",
+    "verse": "Psalm 119:105",
+    "verseText": "Your word is a lamp for my feet, a light on my path.",
+    "insights": "God\u2019s Word revives weary hearts. When we feel lost, Scripture brings clarity, comfort, and direction.",
+    "date": "2025-05-02"
+  },
+  {
+    "id": "11",
+    "title": "Joy in Trials",
+    "verse": "James 1:2-3",
+    "verseText": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds.",
+    "insights": "Joy isn\u2019t the absence of struggle; it's the presence of Christ. Trials are tools that deepen our faith and mold our character.",
+    "date": "2025-05-03"
+  },
+  {
+    "id": "12",
+    "title": "The Shepherd\u2019s Voice",
+    "verse": "John 10:27",
+    "verseText": "My sheep listen to my voice; I know them, and they follow me.",
+    "insights": "Amid the noise of the world, God still speaks. He calls each of us by name\u2014our part is to quiet down and listen.",
+    "date": "2025-05-04"
+  },
+  {
+    "id": "13",
+    "title": "Light in the Darkness",
+    "verse": "John 1:5",
+    "verseText": "The light shines in the darkness, and the darkness has not overcome it.",
+    "insights": "Darkness may surround us, but it never overcomes the light of Christ. In Him, we find courage to shine in every circumstance.",
+    "date": "2025-05-05"
+  },
+  {
+    "id": "14",
+    "title": "The Gift of Forgiveness",
+    "verse": "Ephesians 4:32",
+    "verseText": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+    "insights": "Forgiveness is freedom\u2014for us and for others. When we release offenses, we make room for God\u2019s healing grace to work.",
+    "date": "2025-05-06"
+  },
+  {
+    "id": "15",
+    "title": "Standing on the Rock",
+    "verse": "Matthew 7:24",
+    "verseText": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+    "insights": "When life feels shaky, God\u2019s truth stands firm. Building on His Word means walking in confidence, even when challenges come.",
+    "date": "2025-05-07"
+  },
+  {
+    "id": "16",
+    "title": "Hope in the Waiting",
+    "verse": "Romans 12:12",
+    "verseText": "Be joyful in hope, patient in affliction, faithful in prayer.",
+    "insights": "Waiting isn't wasted when it's filled with faith. God often works behind the scenes, preparing what\u2019s next while growing your trust in Him.",
+    "date": "2025-05-08"
+  },
+  {
+    "id": "17",
+    "title": "Victory Over Fear",
+    "verse": "Isaiah 41:10",
+    "verseText": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "insights": "Fear loses its grip when we anchor our hearts in God\u2019s promises. He walks with us through every storm, bringing peace to our souls.",
+    "date": "2025-05-09"
+  },
+  {
+    "id": "18",
+    "title": "Renewed by the Word",
+    "verse": "Psalm 119:105",
+    "verseText": "Your word is a lamp for my feet, a light on my path.",
+    "insights": "God\u2019s Word revives weary hearts. When we feel lost, Scripture brings clarity, comfort, and direction.",
+    "date": "2025-05-10"
+  },
+  {
+    "id": "19",
+    "title": "Joy in Trials",
+    "verse": "James 1:2-3",
+    "verseText": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds.",
+    "insights": "Joy isn\u2019t the absence of struggle; it's the presence of Christ. Trials are tools that deepen our faith and mold our character.",
+    "date": "2025-05-11"
+  },
+  {
+    "id": "20",
+    "title": "The Shepherd\u2019s Voice",
+    "verse": "John 10:27",
+    "verseText": "My sheep listen to my voice; I know them, and they follow me.",
+    "insights": "Amid the noise of the world, God still speaks. He calls each of us by name\u2014our part is to quiet down and listen.",
+    "date": "2025-05-12"
+  },
+  {
+    "id": "21",
+    "title": "Light in the Darkness",
+    "verse": "John 1:5",
+    "verseText": "The light shines in the darkness, and the darkness has not overcome it.",
+    "insights": "Darkness may surround us, but it never overcomes the light of Christ. In Him, we find courage to shine in every circumstance.",
+    "date": "2025-05-13"
+  },
+  {
+    "id": "22",
+    "title": "The Gift of Forgiveness",
+    "verse": "Ephesians 4:32",
+    "verseText": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+    "insights": "Forgiveness is freedom\u2014for us and for others. When we release offenses, we make room for God\u2019s healing grace to work.",
+    "date": "2025-05-14"
+  },
+  {
+    "id": "23",
+    "title": "Standing on the Rock",
+    "verse": "Matthew 7:24",
+    "verseText": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+    "insights": "When life feels shaky, God\u2019s truth stands firm. Building on His Word means walking in confidence, even when challenges come.",
+    "date": "2025-05-15"
+  },
+  {
+    "id": "24",
+    "title": "Hope in the Waiting",
+    "verse": "Romans 12:12",
+    "verseText": "Be joyful in hope, patient in affliction, faithful in prayer.",
+    "insights": "Waiting isn't wasted when it's filled with faith. God often works behind the scenes, preparing what\u2019s next while growing your trust in Him.",
+    "date": "2025-05-16"
+  },
+  {
+    "id": "25",
+    "title": "Victory Over Fear",
+    "verse": "Isaiah 41:10",
+    "verseText": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "insights": "Fear loses its grip when we anchor our hearts in God\u2019s promises. He walks with us through every storm, bringing peace to our souls.",
+    "date": "2025-05-17"
+  },
+  {
+    "id": "26",
+    "title": "Renewed by the Word",
+    "verse": "Psalm 119:105",
+    "verseText": "Your word is a lamp for my feet, a light on my path.",
+    "insights": "God\u2019s Word revives weary hearts. When we feel lost, Scripture brings clarity, comfort, and direction.",
+    "date": "2025-05-18"
+  },
+  {
+    "id": "27",
+    "title": "Joy in Trials",
+    "verse": "James 1:2-3",
+    "verseText": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds.",
+    "insights": "Joy isn\u2019t the absence of struggle; it's the presence of Christ. Trials are tools that deepen our faith and mold our character.",
+    "date": "2025-05-19"
+  },
+  {
+    "id": "28",
+    "title": "The Shepherd\u2019s Voice",
+    "verse": "John 10:27",
+    "verseText": "My sheep listen to my voice; I know them, and they follow me.",
+    "insights": "Amid the noise of the world, God still speaks. He calls each of us by name\u2014our part is to quiet down and listen.",
+    "date": "2025-05-20"
+  },
+  {
+    "id": "29",
+    "title": "Light in the Darkness",
+    "verse": "John 1:5",
+    "verseText": "The light shines in the darkness, and the darkness has not overcome it.",
+    "insights": "Darkness may surround us, but it never overcomes the light of Christ. In Him, we find courage to shine in every circumstance.",
+    "date": "2025-05-21"
+  },
+  {
+    "id": "30",
+    "title": "The Gift of Forgiveness",
+    "verse": "Ephesians 4:32",
+    "verseText": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+    "insights": "Forgiveness is freedom\u2014for us and for others. When we release offenses, we make room for God\u2019s healing grace to work.",
+    "date": "2025-05-22"
+  },
+  {
+    "id": "31",
+    "title": "Standing on the Rock",
+    "verse": "Matthew 7:24",
+    "verseText": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+    "insights": "When life feels shaky, God\u2019s truth stands firm. Building on His Word means walking in confidence, even when challenges come.",
+    "date": "2025-05-23"
+  },
+  {
+    "id": "32",
+    "title": "Hope in the Waiting",
+    "verse": "Romans 12:12",
+    "verseText": "Be joyful in hope, patient in affliction, faithful in prayer.",
+    "insights": "Waiting isn't wasted when it's filled with faith. God often works behind the scenes, preparing what\u2019s next while growing your trust in Him.",
+    "date": "2025-05-24"
+  },
+  {
+    "id": "33",
+    "title": "Victory Over Fear",
+    "verse": "Isaiah 41:10",
+    "verseText": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "insights": "Fear loses its grip when we anchor our hearts in God\u2019s promises. He walks with us through every storm, bringing peace to our souls.",
+    "date": "2025-05-25"
+  },
+  {
+    "id": "34",
+    "title": "Renewed by the Word",
+    "verse": "Psalm 119:105",
+    "verseText": "Your word is a lamp for my feet, a light on my path.",
+    "insights": "God\u2019s Word revives weary hearts. When we feel lost, Scripture brings clarity, comfort, and direction.",
+    "date": "2025-05-26"
+  },
+  {
+    "id": "35",
+    "title": "Joy in Trials",
+    "verse": "James 1:2-3",
+    "verseText": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds.",
+    "insights": "Joy isn\u2019t the absence of struggle; it's the presence of Christ. Trials are tools that deepen our faith and mold our character.",
+    "date": "2025-05-27"
+  },
+  {
+    "id": "36",
+    "title": "The Shepherd\u2019s Voice",
+    "verse": "John 10:27",
+    "verseText": "My sheep listen to my voice; I know them, and they follow me.",
+    "insights": "Amid the noise of the world, God still speaks. He calls each of us by name\u2014our part is to quiet down and listen.",
+    "date": "2025-05-28"
+  },
+  {
+    "id": "37",
+    "title": "Light in the Darkness",
+    "verse": "John 1:5",
+    "verseText": "The light shines in the darkness, and the darkness has not overcome it.",
+    "insights": "Darkness may surround us, but it never overcomes the light of Christ. In Him, we find courage to shine in every circumstance.",
+    "date": "2025-05-29"
+  },
+  {
+    "id": "38",
+    "title": "The Gift of Forgiveness",
+    "verse": "Ephesians 4:32",
+    "verseText": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+    "insights": "Forgiveness is freedom\u2014for us and for others. When we release offenses, we make room for God\u2019s healing grace to work.",
+    "date": "2025-05-30"
+  },
+  {
+    "id": "39",
+    "title": "Standing on the Rock",
+    "verse": "Matthew 7:24",
+    "verseText": "Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+    "insights": "When life feels shaky, God\u2019s truth stands firm. Building on His Word means walking in confidence, even when challenges come.",
+    "date": "2025-05-31"
   }
 ]
